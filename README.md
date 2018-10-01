@@ -5,7 +5,7 @@ folders named _img_ and _model\_checkpoints_ with the latter containing a pretra
 
 The datasets used for the training of the models can be downloaded from the following link:
 
-link...
+[https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi%3A10.11588%2Fdata%2FUVOWT0&version=DRAFT](https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi%3A10.11588%2Fdata%2FUVOWT0&version=DRAFT)
 
 There is one zip-file for each example, containing the training set and the test set. The Jupyter Notebooks assume 
 you have the data in a folder named _data_ on the same level as the two folders _model\_checkpoints_ and _img_. 
