@@ -1,4 +1,4 @@
-# Towards end-to-end likelihood-free inference with convolutional neural networks (Radev, Mertens, Voss)
+# Towards end-to-end likelihood-free inference with convolutional neural networks (Radev, Mertens, Voss, & Köthe)
 
 This repository contains the Jupyter notebooks for each of the three examples presented in the paper. There are two additional
 folders named _img_ and _model\_checkpoints_ with the latter containing a pretrained network (trained_model.hdf5)
