@@ -1,7 +1,9 @@
 # Towards end-to-end likelihood-free inference with convolutional neural networks
 
-This repository contains the Jupyter notebooks for each of the three examples presented in the paper. The
-datasets used for the training of the models can be downloaded from the following link:
+This repository contains the Jupyter notebooks for each of the three examples presented in the paper. There are two additional
+folders named _img_ and _model\_checkpoints_ with the latter containing a pretrained network (trained_model.hdf5)
+
+The datasets used for the training of the models can be downloaded from the following link:
 
 link...
 
